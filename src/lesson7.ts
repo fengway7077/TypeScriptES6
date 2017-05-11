@@ -12,6 +12,7 @@ console.log(color);
 let fullName: ` NONAME `;
 let age:number = 20 ;
 let sentence: string = `Hello, my name is ${ fullName } . Age is ${age * 2} ` ;
+
 console.log(sentence)
 
 enum Color {Red, Green, Blue}
