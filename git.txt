@@ -1,0 +1,4 @@
+
+create a repository 
+get mylink 
+git remote add origin  mylink

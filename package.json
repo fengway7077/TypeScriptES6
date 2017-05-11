@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Demo typesript6",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "2.3.0" 
+  },
+  "devDependencies": { },
+  "scripts": {
+    "dev": "lite-server"  
+  },
+  "keywords": [
+    "typescript",
+    "6"
+  ],
+  "author": "vanphung",
+  "license": "ISC"
+}
