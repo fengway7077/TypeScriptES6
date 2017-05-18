@@ -1,0 +1,9 @@
+$ git remote add origin https://github.com/fengway7077/TypeScriptES6.git
+$ git remote show origin
+$ git pull origin
+//////////////////git push origin master //no ok
+/////////////////git pull origin master  //no ok
+
+git pull origin master --allow-unrelated-histories
+$ git status
+git push origin master
