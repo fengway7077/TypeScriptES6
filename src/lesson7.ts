@@ -9,7 +9,7 @@ let color:string= "blue";
 console.log(color);
 
 
-let fullName: ` NONAME `;
+let fullName:string= "NONAME" ;
 let age:number = 20 ;
 let sentence: string = `Hello, my name is ${ fullName } . Age is ${age * 2} ` ;
 

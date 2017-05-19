@@ -1,4 +1,4 @@
-function greetPerson(name){
+function greetPerson(name:string){
     var greet;
     if(name== "Chandler"){
         greet = "Hello Chandler";

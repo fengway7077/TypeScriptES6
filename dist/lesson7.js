@@ -6,7 +6,7 @@ var decimal = 6;
 console.log(decimal);
 var color = "blue";
 console.log(color);
-var fullName = " NONAME ";
+var fullName = "NONAME";
 var age = 20;
 var sentence = "Hello, my name is " + fullName + " . Age is " + age * 2 + " ";
 console.log(sentence);

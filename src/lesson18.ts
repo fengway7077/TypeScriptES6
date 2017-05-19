@@ -1,7 +1,7 @@
 class Person2{
-    constructor(name3){
-        this.name3 = name3;
-        console.log(this.name3 + "contructor." )
+    constructor(namee:any){
+        this.namee = namee;
+        console.log(this.namee + "contructor." )
     }
     static talk(){
         console.log("This static method is talk");

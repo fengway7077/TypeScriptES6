@@ -1,8 +1,8 @@
 "use strict";
 var Person2 = (function () {
-    function Person2(name3) {
-        this.name3 = name3;
-        console.log(this.name3 + "contructor.");
+    function Person2(namee) {
+        this.namee = namee;
+        console.log(this.namee + "contructor.");
     }
     Person2.talk = function () {
         console.log("This static method is talk");

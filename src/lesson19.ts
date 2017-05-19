@@ -1,6 +1,6 @@
 
 class Person8{
-    constructor(name8){
+    constructor(name8:any){
         console.log(name8  + "  Person contructor");
     }
     getId(){
@@ -9,7 +9,7 @@ class Person8{
 }
 
     class Employee extends Person8{
-         constructor(name8){
+         constructor(name8:any){
            super(name8);
            console.log(name8 + "  Employee contructor")
         }

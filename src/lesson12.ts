@@ -1,6 +1,6 @@
 //Spread parameter 
 
-let displayColorSpread = function(message,...colors:string[]){
+let displayColorSpread = function(message:string,...colors:string[]){
         
     for(let i in colors){
         console.log(colors[i]);//red greed blue

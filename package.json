@@ -1,7 +1,7 @@
 {
   "name": "typescript",
   "version": "1.0.0",
-  "description": "Demo typesript6",
+  "description": "Demo typesriptes6",
   "main": "index.js",
   "dependencies": {
     "lite-server": "2.3.0" 
@@ -14,6 +14,6 @@
     "typescript",
     "6"
   ],
-  "author": "vanphung",
+  "author": "fengway7077",
   "license": "ISC"
 }

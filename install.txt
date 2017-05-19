@@ -1,5 +1,6 @@
 https://www.typescriptlang.org/
 
+http://es6-features.org
 https://code.visualstudio.com/docs/languages/typescript
 1. Installing Visual Studio Code Editor (https://code.visualstudio.com/)
 2. Installing Nodejs (https://nodejs.org/en/)
